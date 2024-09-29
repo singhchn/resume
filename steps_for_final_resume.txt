@@ -1,0 +1,129 @@
+/*********************************************************************************************/
+1. Bootloader
+	- uboot
+	- current_project based bootloader
+	- any other controller based bootloader
+	- secure and non-secure for safety critical system bootloader
+	
+	
+	
+	
+dates allocated :
+
+	
+	  Month	Oct	
+Sun	- 29 Sept	06	13
+
+Mon	- 30 Sept 	07
+
+Tues	- 01 Oct	08
+
+Wedn	- 		09
+
+Thurs	- 		10
+
+Fri	- 04-Oct	11
+
+Satur	- 05-Oct	12
+	
+	
+	
+Things to do in this weeek:
+1. Code Walk through of uboot
+2. Design principles of uboot
+3. For Safety 
+4. For Critical
+5. for S/W update
+6. Fast Uboot
+7. Porting uboot for different Processors(s)
+8.	- NXP S32G
+	- iMX257
+	- 
+9.  Bootloader for Microcontrollers
+10. In-depth understanding of M7,R7 and A53 (Arm Core Understanding)
+11. uboot device driver model
+12. device tree (dts and dtb)
+
+
+
+
+
+
+
+- Tools : 
+	1. S32G NXP Design Studio
+	2. 
+	
+
+- Protocols :
+
+- Peripherals :
+
+- Protcols :
+
+
+/*********************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*********************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*********************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*********************************************************************************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
