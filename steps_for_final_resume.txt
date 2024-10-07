@@ -12,19 +12,19 @@ dates allocated :
 
 	
 	  Month	Oct	
-Sun	- 29 Sept	06	13
+Sun	- 		13	20
 
-Mon	- 30 Sept 	07
+Mon	-  	07	14
 
-Tues	- 01 Oct	08
+Tues	- 	08	15
 
-Wedn	- 		09
+Wedn	- 	09	16
 
-Thurs	- 		10
+Thurs	- 	10	17
 
-Fri	- 04-Oct	11
+Fri	- 	11	18
 
-Satur	- 05-Oct	12
+Satur	- 	12	19
 	
 	
 	
